@@ -1,0 +1,3 @@
+ java -Xmx2G -Xms2G -jar server.jar
+
+ ./node_modules/.bin/ngrok tcp 25565
